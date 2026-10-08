@@ -3,14 +3,14 @@
 <h3 align="center">Software Developer · Web Developer · Embedded Systems · AI · Game Development</h3>
 
 <p align="center">
-  I enjoy building things across software, web, hardware, AI, and games.
+  I enjoy learning by building real things.
   <br>
   I love making things — I'm just lazy enough to automate them.
 </p>
 
 <p align="center">
   <a href="https://github.com/itzRealEzra">
-    <img src="https://img.shields.io/badge/GitHub-itzRealEzra-24292F?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-itzRealEzra-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ I prefer practical experimentation, understanding how systems work, and improvin
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
 
-### Web
+### Web Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -81,21 +81,31 @@ I prefer practical experimentation, understanding how systems work, and improvin
 
 ## What I'm Interested In
 
-| Area     | Focus                                    |
-| -------- | ---------------------------------------- |
-| AI       | Assistants, applications, automation     |
-| Web      | Development, UI / UX, interfaces         |
-| Embedded | Arduino, ESP32, electronics              |
-| Vision   | Detection, tracking, interaction         |
-| Games    | RPG systems, progression, world building |
-| Software | Tools, utilities, experimentation        |
+| Area         | Focus                                    |
+| ------------ | ---------------------------------------- |
+| **AI**       | Assistants, applications, automation     |
+| **Web**      | Development, UI / UX, interfaces         |
+| **Embedded** | Arduino, ESP32, electronics              |
+| **Vision**   | Detection, tracking, interaction         |
+| **Games**    | RPG systems, progression, world building |
+| **Software** | Tools, utilities, experimentation        |
 
 ---
 
 ## How I Build
 
 ```text
-Idea → Prototype → Break It → Understand It → Fix It → Improve It
+Idea
+ ↓
+Prototype
+ ↓
+Break It
+ ↓
+Understand It
+ ↓
+Fix It
+ ↓
+Improve It
 ```
 
 I don't always start with the perfect solution.
@@ -123,5 +133,7 @@ Can I automate this?
 ---
 
 <p align="center">
-  <sub>Thanks for stopping by. This is my little corner of GitHub — experiments, ideas, code, and everything I'm learning along the way.</sub>
+  <sub>Thanks for visiting my little corner of GitHub.</sub>
+  <br>
+  <sub>Built with curiosity, experimentation, and a healthy amount of "I'll automate that."</sub>
 </p>
