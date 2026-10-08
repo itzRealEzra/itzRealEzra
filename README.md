@@ -1,353 +1,294 @@
-<!-- ========================================================= -->
+<h1 align="center">Hi, I'm Ezra</h1>
 
-<!--                         HEADER                            -->
-
-<!-- ========================================================= -->
+<h3 align="center">Software Developer · Web Developer · Embedded Systems · AI · Game Development</h3>
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&text=EZRA&fontAlign=50&fontAlignY=40&fontSize=76&font=JetBrains%20Mono&fontColor=FFFFFF&desc=SOFTWARE%20%7C%20WEB%20%7C%20EMBEDDED%20%7C%20AI%20%7C%20GAMES&descAlign=50&descAlignY=62&descSize=16&animation=fadeIn&color=0:08080D,35:11111C,70:18152B,100:2A1748"
-    width="100%"
-  />
+  I like building things across software, web, hardware, AI, and games.
+  <br>
+  Most of my projects start with a simple question:
+  <br>
+  <b>"Can I just build this myself?"</b>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&lines=I+love+building+things.;I'm+just+lazy+enough+to+automate+them.;Software+%7C+Web+%7C+Embedded+%7C+AI+%7C+Game+Development;If+it+can+be+built%2C+I'll+probably+try+to+build+it."
-  />
+  <a href="https://github.com/itzRealEzra">
+    <img src="https://img.shields.io/badge/GitHub-itzRealEzra-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/itzRealEzra/Esp32-DMX-Sound-Reactive-Lighting">
+    <img src="https://img.shields.io/badge/ESP32%20DMX-Project-6B7280?style=flat-square&logo=espressif&logoColor=white" alt="ESP32 Project">
+  </a>
 </p>
 
 ---
 
-# Introduction
+## About Me
 
-Hi, I'm **Ezra**.
+I'm **Ezra**, a developer who enjoys learning by actually building things.
 
-I'm a developer who likes building things that probably started as a simple thought like:
+My interests sit across several areas of technology:
 
-> *"What if I just made this myself?"*
+* Software development
+* Web development and interface design
+* Arduino and ESP32 development
+* Electronics and hardware control
+* AI applications and assistants
+* Computer vision
+* Game development
+* Automation and experimental projects
 
-And that's usually how the project begins.
+I don't really like staying in only one area.
 
-I enjoy working across different areas of technology — from **C and C++ embedded systems** to **web development, AI applications, game development, automation, and experimental software**.
+One project might involve writing C++ for an ESP32, another might involve building a web interface, while the next one might involve AI, computer vision, or a game system.
 
-I like understanding how things work, taking them apart, rebuilding them, and occasionally making something unnecessarily complicated just because it sounds fun.
+For me, that's part of the fun.
 
-### The honest version?
+### A little confession
 
-I **love to build**.
+I love building things.
 
-I'm also **lazy**.
+I'm also lazy.
 
-Not the *"I don't want to do anything"* kind of lazy.
+Not *"I don't want to work"* lazy.
 
 More like:
 
-> *"I'm too lazy to repeat this 500 times, so I'm going to spend 3 days building something that does it automatically."*
+> **"I'm too lazy to keep doing this manually, so I'll spend three days making a program that does it automatically."**
 
-That mindset is probably responsible for a lot of the projects you will find here.
-
-My goal isn't simply to write code.
-
-My goal is to create things that are **useful, interactive, interesting, and worth experimenting with**.
+So, in a way, laziness has become part of my development methodology.
 
 ---
 
-# About Me
+## What I Do
 
-I'm interested in the space where different technologies overlap.
+### Software Development
 
-A project can start as software and eventually involve hardware.
+I enjoy building applications, utilities, experiments, and systems from the ground up.
 
-An AI project can turn into automation.
+I'm particularly interested in understanding how things work rather than only learning how to use them.
 
-A game can become an experiment in UI, graphics, networking, and systems design.
+### Web Development
 
-An ESP32 can start as a small microcontroller project and somehow end up controlling an entire lighting setup.
+I enjoy building websites and interfaces with a focus on:
 
-That's the kind of development I enjoy.
-
-```text
-                         ┌───────────────────┐
-                         │       EZRA        │
-                         │ Developer / Maker │
-                         └─────────┬─────────┘
-                                   │
-         ┌─────────────────────────┼─────────────────────────┐
-         │                         │                         │
-         ▼                         ▼                         ▼
-   SOFTWARE / WEB                 AI                  EMBEDDED
-         │                         │                         │
-         │                         │                         │
-   Applications                Assistants              Arduino
-   Interfaces                  Computer Vision         ESP32
-   APIs                        Automation              Sensors
-   UI / UX                     AI Systems              DMX
-         │                         │                         │
-         └─────────────────────────┼─────────────────────────┘
-                                   │
-                                   ▼
-                           CREATIVE PROJECTS
-                                   │
-                         ┌─────────┴─────────┐
-                         │                   │
-                         ▼                   ▼
-                       GAMES             EXPERIMENTS
-```
-
----
-
-# My Main Areas
-
-## Software Development
-
-I enjoy building software from the ground up and figuring out how the pieces fit together.
-
-Areas I'm interested in:
-
-`C` · `C++` · `C#` · `Java` · `JavaScript` · `Python`
-
-Including:
-
-* Application development
-* System-oriented programming
-* APIs and integrations
-* Automation
-* Desktop applications
-* Experimental software
-* Problem solving
-
----
-
-## Web Development
-
-I enjoy creating interfaces that don't just work, but actually feel good to use.
-
-### Technologies
-
-`HTML` · `CSS` · `JavaScript`
-
-### Interests
-
-* Front-end development
-* Responsive interfaces
-* UI design
-* Interactive websites
-* Web applications
-* API integration
-* Visual presentation
+* Clean layouts
+* Responsive design
 * User experience
+* Interactive components
+* Front-end development
+* Web applications
+* APIs and integrations
 
----
+### Embedded Systems
 
-## Embedded Systems
+I like working with microcontrollers because software suddenly becomes capable of interacting with the physical world.
 
-This is where software stops living only on a screen.
+My embedded interests include:
 
-I work with:
-
-`Arduino` · `ESP32` · `C` · `C++`
-
-And explore areas such as:
-
-* Microcontrollers
-* Electronics
+* Arduino
+* ESP32
+* C / C++
 * Sensors
 * Serial communication
 * Hardware control
-* Automation
-* OTA systems
 * DMX512
 * Sound-reactive systems
+* OTA development
 
----
+### AI
 
-## Artificial Intelligence
+I'm interested in AI as a practical development tool.
 
-I'm interested in AI as a **practical technology**, not just something to put on a project description.
+I'm exploring:
 
-Things I'm exploring:
-
-`AI APIs` · `Python` · `Computer Vision` · `AI Assistants` · `Automation`
-
-Some of my AI interests include:
-
-* Personal AI assistants
-* AI-powered desktop software
-* Conversational systems
-* Context-aware applications
+* AI applications
+* AI assistants
+* AI APIs
 * Computer vision
-* AI-assisted automation
+* Context-aware systems
+* Automation
 * Human-computer interaction
 
----
+### Game Development
 
-## Game Development
+Games let me combine programming, systems design, interfaces, creativity, and experimentation.
 
-Games are one of the areas where software, art, systems, interface design, and experimentation all collide.
-
-I'm interested in:
+I'm especially interested in:
 
 * RPG systems
-* World building
 * Character progression
 * Combat systems
 * Exploration
 * Interactive UI
+* World systems
 * Game architecture
-* Visual effects
-* Experimental gameplay
 
 ---
 
 # Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,html,css,python,arduino,git,github,vscode" />
-</p>
+## Programming Languages
 
-### Languages
-
-```text
-C
-C++
-C#
-Java
-JavaScript
-Python
-HTML
-CSS
-```
-
-### Web
-
-```text
-HTML
-CSS
-JavaScript
-Responsive Design
-UI / UX
-Web Applications
-REST APIs
-JSON
-```
-
-### Embedded
-
-```text
-Arduino
-ESP32
-C / C++
-Sensors
-Serial Communication
-DMX512
-OTA
-Hardware Interfaces
-```
-
-### AI
-
-```text
-Python
-AI APIs
-AI Assistants
-Computer Vision
-Automation
-Intelligent Applications
-```
-
-### Development Tools
-
-```text
-Git
-GitHub
-VS Code
-OpenCode
-Windows Development
-Linux Development
-Command Line Tools
-```
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)](https://dev.java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
 
 ---
 
-# Selected Projects
+## Web Development
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+I use web technologies for:
+
+`Websites` · `Web Applications` · `UI Design` · `Responsive Layouts` · `Interactive Interfaces` · `APIs`
+
+---
+
+## Embedded & Electronics
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square\&logo=platformio\&logoColor=white)](https://platformio.org/)
+
+Areas I enjoy:
+
+`Microcontrollers` · `Sensors` · `Serial Communication` · `DMX512` · `Lighting Control` · `Automation` · `Hardware Interfaces`
+
+---
+
+## AI & Intelligent Systems
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![OpenAI](https://img.shields.io/badge/AI%20APIs-111111?style=flat-square\&logo=openai\&logoColor=white)](https://openai.com/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=flat-square)](https://opencode.ai/)
+
+I'm interested in building:
+
+`AI Assistants` · `AI Applications` · `Automation` · `Computer Vision` · `Context-Aware Software`
+
+---
+
+## Game Development
+
+[![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square\&logo=pixijs\&logoColor=white)](https://pixijs.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+My game-development interests include:
+
+`RPG Systems` · `World Building` · `Combat` · `Progression` · `Exploration` · `Interactive UI`
+
+---
+
+## Development Tools
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
+[![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=flat-square)](https://opencode.ai/)
+
+---
+
+# Projects
 
 ## ESP32 DMX Sound Reactive Lighting
 
-A hardware project built around the **ESP32**, designed to control DMX lighting while reacting to sound.
+An ESP32-based lighting project combining **DMX512 control, microphone input, and sound-reactive lighting effects**.
 
-The system combines embedded programming, audio input, DMX communication, and real-time lighting behavior.
+The system brings together embedded programming, audio input, serial communication, and real-time hardware behavior.
 
-### Technologies
+**Technologies**
 
 `ESP32` · `C++` · `MAX485` · `MAX9814` · `DMX512` · `OTA`
 
-### Repository
+**Repository**
 
-**ESP32 DMX Sound Reactive Lighting**
-
-https://github.com/itzRealEzra/Esp32-DMX-Sound-Reactive-Lighting
+[Esp32-DMX-Sound-Reactive-Lighting](https://github.com/itzRealEzra/Esp32-DMX-Sound-Reactive-Lighting)
 
 ---
 
-# Ashborne — The PC Partner
+## UniversalHub
 
-An experimental AI project focused on building a **personal PC companion**.
+A project focused on bringing different functionality together into one place.
 
-The idea is simple:
+This is part of my interest in building software that combines multiple tools and features into a single, convenient environment.
 
-> Instead of making software that only waits for commands, build something that can become a useful partner while working with the PC.
+**Focus**
 
-The current foundation focuses on conversational AI, with future plans involving more advanced PC interaction and automation.
+`Software` · `Web` · `Integration` · `UI`
 
-### Current Focus
+---
+
+## Personal Website
+
+A personal website project used to experiment with presentation, layout, responsive design, and web development.
+
+**Focus**
+
+`HTML` · `CSS` · `JavaScript` · `UI / UX` · `Web Design`
+
+---
+
+## Ashborne — The PC Partner
+
+An experimental AI project centered around the idea of a **personal PC companion**.
+
+The current focus is conversational AI, with the larger idea of eventually connecting AI with useful PC assistance and automation.
+
+### Concept
 
 ```text
+User
+  │
+  ▼
 Conversation
-       │
-       ▼
-      AI
-       │
-       ▼
+  │
+  ▼
+AI
+  │
+  ▼
 Context
-       │
-       ▼
+  │
+  ▼
 PC Assistance
-       │
-       ▼
+  │
+  ▼
 Automation
 ```
 
 ---
 
-# Artherix Fantasy
+## Artherix Fantasy
 
-A fantasy and cultivation-inspired game project.
+A fantasy / cultivation-inspired RPG project.
 
-The project explores the design of a larger interactive RPG environment containing:
+The project explores:
 
 * Character classes
-* Progression systems
-* Cultivation mechanics
+* RPG progression
+* Cultivation systems
 * Equipment
 * Artifacts
 * Exploration
 * Combat
 * World systems
 * Interactive UI
-* Fantasy environments
 
-The goal is to experiment with building an RPG system rather than simply making a collection of isolated mechanics.
+The larger goal is to experiment with creating an interconnected game world rather than isolated mechanics.
 
 ---
 
-# Phone Camera Detection
+## Phone Camera Detection
 
-An experimental project exploring the possibility of using a **smartphone camera as a PC input device**.
+An experimental project exploring the use of a **phone camera as a PC input device**.
 
-The concept focuses on detecting a person and interpreting movement, with particular interest in **hand and skeleton detection**.
+The main idea is to detect a person and interpret movement, with an emphasis on hand and skeleton tracking.
 
-### Areas
+**Areas**
 
 `Computer Vision` · `Camera Streaming` · `Pose Detection` · `PC Interaction`
 
@@ -355,13 +296,11 @@ The concept focuses on detecting a person and interpreting movement, with partic
 
 # How I Build
 
-I usually start with a simple question:
+Most projects start with a very simple thought:
 
-```text
-"Can I make this?"
-```
+> **"Can I make this?"**
 
-Then:
+Then the usual process begins.
 
 ```text
 Idea
@@ -370,205 +309,134 @@ Prototype
   ↓
 Something breaks
   ↓
+Figure out why
+  ↓
 Fix it
   ↓
-Something else breaks
+Improve it
   ↓
-Learn why
+Add another feature
   ↓
-Make it better
+Realize the project is much bigger
   ↓
-"Wait... this could be a whole project."
-  ↓
-Another repository
+Put it on GitHub
 ```
 
-This cycle is responsible for a surprisingly large percentage of my projects.
-
----
-
-# My Development Philosophy
-
-> **Build first. Understand deeply. Improve constantly.**
-
-I don't believe every project needs to begin perfectly.
-
-Sometimes the fastest way to understand a technology is to simply build something with it.
-
-Break it.
-
-Fix it.
-
-Rebuild it.
-
-Then figure out how to make the next version cleaner.
-
-That's how I learn best.
-
----
-
-# Current Interests
+And sometimes:
 
 ```text
-01  AI-powered applications
+"I'll just make a small project."
 
-02  Personal AI assistants
+        ↓
 
-03  ESP32 and embedded development
+  37 features later
 
-04  Arduino and electronics
+        ↓
 
-05  Web development and UI design
-
-06  Computer vision
-
-07  Game development
-
-08  Hardware / software integration
-
-09  Automation
-
-10  Experimental projects
+"Okay, this became a platform."
 ```
+
+---
+
+# Development Philosophy
+
+> **Build first. Understand deeply. Improve continuously.**
+
+I believe projects don't always have to begin perfectly.
+
+A small working prototype is often more valuable than a perfect idea that never gets implemented.
+
+I learn by:
+
+**Building → Breaking → Understanding → Fixing → Improving**
 
 ---
 
 # The Lazy Developer Principle
 
+I have a simple rule.
+
 ```text
-                    I don't like
-                  doing the same
-                    thing twice.
-
-                         ↓
-
-                  Can it be coded?
-
-                         ↓
-
-                        Yes.
-
-                         ↓
-
-                   AUTOMATE IT.
+If I have to repeat something many times...
+        ↓
+Can I automate it?
+        ↓
+If yes...
+        ↓
+Automate it.
 ```
 
-Or, as I like to put it:
+So yes, I'm lazy.
 
-> **I'm not lazy. I'm efficiency-oriented.**
-
-Sometimes.
-
-Maybe.
-
-Mostly.
+But I like to think of it as **engineering motivated by convenience**.
 
 ---
 
-# GitHub Activity
+# What I'm Currently Interested In
+
+| Area            | Exploring                                |
+| --------------- | ---------------------------------------- |
+| AI              | Assistants, AI applications, automation  |
+| Embedded        | ESP32, Arduino, sensors, DMX             |
+| Web             | HTML, CSS, JavaScript, UI / UX           |
+| Software        | Applications, utilities, integrations    |
+| Computer Vision | Camera detection and interaction         |
+| Games           | RPG systems, progression, world building |
+| Hardware        | Software / hardware interaction          |
+| Automation      | Removing repetitive work                 |
+
+---
+
+# A Few Things About Me
+
+```text
+I enjoy building things.
+
+I like understanding how things work.
+
+I like experimenting with technologies.
+
+I prefer practical projects over endless theory.
+
+I often start small...
+
+...and somehow end up making the project much bigger.
+
+And yes, I'm probably going to automate something
+simply because I don't want to do it twice.
+```
+
+---
+
+# GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itzRealEzra&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=B8B8C8&icon_color=9B7BFF&count_private=true"
-    height="175"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRealEzra&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=B8B8C8"
-    height="175"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=itzRealEzra&theme=transparent&hide_border=true&ring=9B7BFF&fire=9B7BFF&currStreakLabel=FFFFFF&sideLabels=B8B8C8&dates=777788"
-  />
+  <a href="https://github.com/itzRealEzra">
+    <img src="https://img.shields.io/github/followers/itzRealEzra?style=flat-square&label=Followers&color=6B7280" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/itzRealEzra?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-8B7E95?style=flat-square&logo=github&logoColor=white" alt="Repositories">
+  </a>
 </p>
 
 ---
 
-# Currently Building
+## Thanks for visiting
 
-<table>
-<tr>
-<td width="50%">
+This profile is basically my little development workspace.
 
-### AI
+Some projects are polished.
 
-Exploring practical AI applications, assistants, automation, and computer vision.
+Some are experiments.
 
-</td>
+Some are unfinished.
 
-<td width="50%">
+Some started because I was curious.
 
-### Embedded
+And some probably exist because I was too lazy to keep doing something manually.
 
-Working with ESP32, Arduino, sensors, DMX, and hardware control.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Web
-
-Building interfaces, applications, and experiments across the web stack.
-
-</td>
-
-<td width="50%">
-
-### Games
-
-Exploring RPG systems, interactive worlds, progression, and game technology.
-
-</td>
-</tr>
-</table>
-
----
-
-# Final Thought
-
-I don't really have one specific box that I want to stay inside.
-
-I like **software**.
-
-I like **hardware**.
-
-I like **AI**.
-
-I like **games**.
-
-I like **web development**.
-
-And I like combining things that normally wouldn't belong together just to see what happens.
-
-So this GitHub is basically a collection of experiments, systems, ideas, mistakes, improvements, and things I decided were worth building.
-
-Some will become finished projects.
-
-Some will become experiments.
-
-Some will probably begin with:
-
-> *"This should be easy."*
-
-And become a three-month project.
-
----
+Either way, I'm always building something.
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2A1748,35:18152B,70:11111C,100:08080D"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <b>Build it. Break it. Learn from it. Build it better.</b>
-</p>
-
-<p align="center">
-  <sub>© Ezra — Built with curiosity, code, and questionable amounts of caffeine.</sub>
+  <sub>Built with curiosity, code, experimentation, and a strong preference for automating repetitive work.</sub>
 </p>
