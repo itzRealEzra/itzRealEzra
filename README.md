@@ -2,7 +2,15 @@
 
 <h3 align="center">Software Developer · Web Developer · Embedded Systems · AI · Game Development</h3>
 
-I build software, intelligent tools, embedded systems, and interactive experiences. My work spans AI applications, local AI, web development, automation, hardware, and game development. I enjoy experimenting with different technologies, turning ideas into working systems, and finding simpler ways to solve problems — preferably so I don't have to do the same thing twice.
+<p align="center">
+  I build software, intelligent tools, embedded systems, and interactive experiences.
+  <br>
+  My work spans AI applications, local AI, web development, automation, hardware, and game development.
+  <br>
+  I enjoy experimenting with different technologies, turning ideas into working systems,
+  <br>
+  and finding simpler ways to solve problems — preferably so I don't have to do the same thing twice.
+</p>
 
 
 <p align="center">
