@@ -2,12 +2,7 @@
 
 <h3 align="center">Software Developer · Web Developer · Embedded Systems · AI · Game Development</h3>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&duration=4200&pause=1600&color=6F6878&center=true&vCenter=true&width=850&lines=I+enjoy+learning+by+building+real+things.;I+love+making+things+%E2%80%94+I'm+just+lazy+enough+to+automate+them."
-    alt="Typing animation"
-  />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+making+things;I'm+just+lazy+enough+to+automate+them.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:ezra.tsx@gmail.com">
