@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+love+making+things;I'm+just+lazy+enough+to+automate+them.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:ezra.tsx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ezra.tsx%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/itzRealEzra">
-    <img src="https://img.shields.io/badge/GitHub-itzRealEzra-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=6B6572&center=true&vCenter=true&width=520&lines=I+love+making+things;I'm+just+lazy+enough+to+automate+them."
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
